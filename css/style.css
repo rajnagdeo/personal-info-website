@@ -22,6 +22,10 @@ position: relative;
 /* width: 80%; */
 
 }
+.mountain{
+display: inline-block;
+width: 40rem;
+}
 .profile{
     display: inline-block;
     width:90%;
